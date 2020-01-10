@@ -1,0 +1,8 @@
+diff -up kcm-gtk-0.5.3/kcmgtk.desktop.settings_category kcm-gtk-0.5.3/kcmgtk.desktop
+--- kcm-gtk-0.5.3/kcmgtk.desktop.settings_category	2009-10-23 08:07:44.000000000 -0500
++++ kcm-gtk-0.5.3/kcmgtk.desktop	2012-05-14 13:39:27.760760927 -0500
+@@ -29,3 +29,4 @@ X-KDE-Library=kcm_gtk
+ X-KDE-ParentApp=kcontrol
+ Categories=Qt;KDE;X-KDE-settings-looknfeel;
+ X-KDE-System-Settings-Parent-Category=appearance
++X-KDE-System-Settings-Parent-Category-V2=application-appearance

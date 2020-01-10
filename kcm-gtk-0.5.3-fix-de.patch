@@ -1,0 +1,132 @@
+diff -ur kcm-gtk-0.5.3/po/de/kcm_gtk.po kcm-gtk-0.5.3-fix-de/po/de/kcm_gtk.po
+--- kcm-gtk-0.5.3/po/de/kcm_gtk.po	2009-10-23 15:07:44.000000000 +0200
++++ kcm-gtk-0.5.3-fix-de/po/de/kcm_gtk.po	2009-12-20 11:47:45.000000000 +0100
+@@ -21,7 +21,7 @@
+ #: kcmgtk.cpp:107
+ #, kde-format
+ msgid "%1 (size %2)"
+-msgstr "%1 (Gre %2)"
++msgstr "%1 (Größe %2)"
+ 
+ #. i18n: file: kcmgtkwidget.ui:19
+ #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+@@ -39,7 +39,7 @@
+ #. i18n: ectx: property (text), widget (QPushButton, warning3)
+ #: rc.cpp:9 rc.cpp:50
+ msgid "Change search paths..."
+-msgstr "Suchpfade ndern ..."
++msgstr "Suchpfade ändern ..."
+ 
+ #. i18n: file: kcmgtkwidget.ui:94
+ #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+@@ -63,7 +63,7 @@
+ #. i18n: ectx: property (text), widget (QPushButton, fontChange)
+ #: rc.cpp:21 rc.cpp:62
+ msgid "Change..."
+-msgstr "ndern ..."
++msgstr "Ändern ..."
+ 
+ #. i18n: file: kcmgtkwidget.ui:165
+ #. i18n: ectx: property (text), widget (KSqueezedTextLabel, qtcurveFontLabel)
+@@ -84,7 +84,7 @@
+ #. i18n: ectx: property (windowTitle), widget (QWidget, SearchPaths)
+ #: rc.cpp:30 rc.cpp:71
+ msgid "Change search paths"
+-msgstr "Suchpfade ndern"
++msgstr "Suchpfade ändern"
+ 
+ #. i18n: file: searchpaths.ui:26
+ #. i18n: ectx: property (text), widget (QLabel, textLabel1)
+@@ -99,7 +99,7 @@
+ #. i18n: ectx: property (text), widget (QPushButton, addButton)
+ #: rc.cpp:36 rc.cpp:77
+ msgid "Add"
+-msgstr "Hinzufgen"
++msgstr "Hinzufügen"
+ 
+ #. i18n: file: searchpaths.ui:63
+ #. i18n: ectx: property (text), widget (QPushButton, removeButton)
+@@ -147,7 +147,7 @@
+ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+ "weight:600;\">Warnung:</span> Die Gtk-Qt-Theme-Engine ist nicht installiert. "
+ "Das bedeutet, dass Sie Ihren KDE-Stil nicht in GTK-Anwendungen verwenden "
+-"knnen.</p></body></html>"
++"können.</p></body></html>"
+ 
+ msgid "Gtk-Qt theme engine homepage"
+ msgstr "Homepage der Gtk-Qt-Theme-Engine"
+@@ -156,7 +156,7 @@
+ msgstr "http://gtk-qt.ecs.soton.ac.uk"
+ 
+ msgid "The Quick Brown Fox Jumped Over The Lazy Dog"
+-msgstr "Falsches ben von Xylophonmusik qult jeden greren Zwerg"
++msgstr "Falsches Üben von Xylophonmusik quält jeden größeren Zwerg"
+ 
+ msgid "Firefox and Thunderbird"
+ msgstr "Firefox und Thunderbird"
+@@ -166,12 +166,12 @@
+ "Thunderbird.  This can be fixed by installing some files into your Mozilla "
+ "profile."
+ msgstr ""
+-"Die Knpfe der Bildlaufleiste werden in Firefox und Thunderbird gelegentlich "
++"Die Knöpfe der Bildlaufleiste werden in Firefox und Thunderbird gelegentlich "
+ "falsch dargestellt. Dies kann durch das Installieren einiger Dateien in das "
+ "Mozilla-Profilverzeichnis behoben werden."
+ 
+ msgid "I&nstall scrollbar fix..."
+-msgstr "Korrektur fr Bildlaufleiste i&nstallieren ..."
++msgstr "Korrektur für Bildlaufleiste i&nstallieren ..."
+ 
+ msgid ""
+ "The control center module could not find the GTK-Qt theme engine in its list "
+@@ -180,7 +180,7 @@
+ msgstr ""
+ "Das Kontrollzentrum-Modul konnte die GTK-Qt-Theme-Engine nicht in der Liste "
+ "der Suchpfade finden. Wenn Sie sie an einem anderen Ort installiert haben, "
+-"mssen Sie den korrekten Pfad der Liste hinzufgen."
++"müssen Sie den korrekten Pfad der Liste hinzufügen."
+ 
+ msgid "No Mozilla profiles found"
+ msgstr "Keine Mozilla-Profile gefunden"
+@@ -193,14 +193,14 @@
+ "all Firefox and Thunderbird windows for the changes to take effect"
+ msgstr ""
+ "Das Mozilla-Profil wurde erfolgreich aktualisiert. Alle laufenden Firefox- "
+-"und Thunderbird-Fenster mssen geschlossen und neu geffnet werden, um die "
+-"nderungen zu bernehmen."
++"und Thunderbird-Fenster müssen geschlossen und neu geöffnet werden, um die "
++"Änderungen zu übernehmen."
+ 
+ msgid "Mozilla profile"
+ msgstr "Mozilla-Profil"
+ 
+ msgid "Could not write to %1"
+-msgstr "%1 lie sich nicht schreiben"
++msgstr "%1 ließ sich nicht schreiben"
+ 
+ msgid ""
+ "_: NAME OF TRANSLATORS\n"
+@@ -230,19 +230,19 @@
+ "will not be able to use your KDE style in GTK applications."
+ msgstr ""
+ "<b>Warnung:</b> Die Gtk-Qt-Theme-Engine ist nicht installiert. Das bedeutet ,"
+-"dass Ihre KDE-Stile nicht in GTK-Anwendungen verwendet werden knnen."
++"dass Ihre KDE-Stile nicht in GTK-Anwendungen verwendet werden können."
+ 
+ msgid "Preview line 1"
+ msgstr "Vorschauzeile 1"
+ 
+ msgid "GTK Keyboard Shortcuts"
+-msgstr "GTK-Tastenkrzel"
++msgstr "GTK-Tastenkürzel"
+ 
+ msgid "Use Emacs-like key&board shortcuts for text editing"
+-msgstr "Emacs-Tastenkrzel zum Editieren von Text verwenden"
++msgstr "Emacs-Tastenkürzel zum Editieren von Text verwenden"
+ 
+ msgid "Profile"
+ msgstr "Profil"
+ 
+ msgid "Please select the profiles that you want to fix:"
+-msgstr "Bitte whlen Sie die zu korrigierenden Profile aus:"
++msgstr "Bitte wählen Sie die zu korrigierenden Profile aus:"
